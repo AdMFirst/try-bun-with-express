@@ -10,3 +10,5 @@ not to mention googling stuff don't work.
 there is no one explain this other than the documentation.
 
 maybe in few more month it will be feasible. but until then i'm back with clasic npm
+
+★★⚝⚝⚝
